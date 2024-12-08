@@ -1,0 +1,2 @@
+print("My Name is Amit")
+# to run this use python3 <file_location>
